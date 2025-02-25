@@ -13,8 +13,7 @@
 - **Game Engines:** Unreal Engine, Unity  
 
 ## 🛠 **Featured Projects**
-📌 **[OCR-Enhanced CAD Data Extraction and Processing](https://github.com/Roshan-RB/ATA-David)** 
-Developed an algorithm using Computer Vision techniques to extract engineering data from 2D CAD drawings. Published paper: Enhancing Cognitive Efficiency in CAD-Based Cost Estimation for Sheet Metal Components Using OCR and Human-Centric Interfaces: A Step Toward Industry 5.0
+📌 **[OCR-Enhanced CAD Data Extraction and Processing](https://github.com/Roshan-RB/ATA-David)**  <br>Developed an algorithm using Computer Vision techniques to extract engineering data from 2D CAD drawings.  <br>Published paper: Enhancing Cognitive Efficiency in CAD-Based Cost Estimation for Sheet Metal Components Using OCR and Human-Centric Interfaces: A Step Toward Industry 5.0
 
 📌 **[ML Deployment: FastAPI + Streamlit](https://github.com/Roshan-RB/decision_tree_project)**  
 Deploying ML models using FastAPI and Streamlit on Render & Streamlit Cloud  
