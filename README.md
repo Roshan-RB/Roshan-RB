@@ -21,7 +21,7 @@ Deploying ML models using FastAPI and Streamlit on Render & Streamlit Cloud
 📌 **[2D to 3D Depth Estimation](https://github.com/Roshan-RB/Generate-3D-Mesh-from-2D-Image-using-Depth_Estimation)**  
 Converting 2D images to 3D point clouds using PyTorch  
 
-📌 **[Unity VR Neurosurgeon Training](https://github.com/Roshan-RB/Unity_Game)**  
+📌 **[Unity VR Neurosurgeon Training](https://github.com/Roshan-RB/Project_X3)**  
 Developed a VR training simulation for neurosurgeons  
 
 ## 📊 **GitHub Stats**
