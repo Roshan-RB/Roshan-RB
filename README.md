@@ -1,14 +1,14 @@
 # Hi, I'm Roshan 👋  
 🚀 **Digital Engineering | AI & Computer Vision | CAD/CAS Automation**  
-🎯 Passionate about **Generative AI, 3D Computer Vision, and ML Deployment**  
+🎯 Passionate about **Generative AI, and Computer Vision**  
 
 📍 Based in **Magdeburg, Germany**  
 🎓 **M.Sc. Digital Engineering** at Otto-von-Guericke University  
 
 ## 🔧 **Technical Skills**
-- **AI/ML:** PyTorch, TensorFlow, OpenCV, Scikit-learn  
+- **AI/ML:** PyTorch, TensorFlow, OpenCV, Scikit-learn, Langchain 
 - **Programming:** Python, C#, SQL  
-- **Deployment:** FastAPI, Streamlit, Docker, Azure DevOps, GitHub Actions  
+- **Deployment:** FastAPI, Streamlit, Docker, Azure DevOps, GitHub  
 - **3D & CAD Tools:** Autodesk Alias, Siemens NX, Rhino-Grasshopper, Blender  
 - **Game Engines:** Unreal Engine, Unity  
 
